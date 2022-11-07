@@ -8,15 +8,8 @@ Complete Step One
 |Increase the width of the browser window and confirm that the layout changes to a 2x3 grid of images (as shown in the tablet device image in Figure 1-4), which is a design more appropriate for the wider window.| 1  | Content Cell  |  
 |Using the editor of your choice, create a new blank HTML file in the html01 > tutorial folder, saving the file as ct_about.html.| 1  | Content Cell  | 
 |Enter the following code into the file:
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
-  <h1> Did this work</h1>
-  [Steps](..
-</body>
-</html>| 2 | Content Cell  |
+
+[I'm a relative reference to a repository file](../blob/master/docs)
 
 |Using the editor of your choice, create a new blank HTML file in the html01 > tutorial folder, saving the file as ct_about.html.| 1  | Content Cell  |
 |Using the editor of your choice, create a new blank HTML file in the html01 > tutorial folder, saving the file as ct_about.html.| 1  | Content Cell  |
