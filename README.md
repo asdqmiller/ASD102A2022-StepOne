@@ -13,9 +13,9 @@ Complete Step One
 <head>
 </head>
 <body>
-  <link href="test.html" 
+  <h1> Did this work</h1>
 </body>
-</html>| 2  | Content Cell  |
+</html>| 2 | Content Cell  |
 
 |Using the editor of your choice, create a new blank HTML file in the html01 > tutorial folder, saving the file as ct_about.html.| 1  | Content Cell  |
 |Using the editor of your choice, create a new blank HTML file in the html01 > tutorial folder, saving the file as ct_about.html.| 1  | Content Cell  |
